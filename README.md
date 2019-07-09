@@ -12,12 +12,15 @@
 
 ### Record Tips
 
-- [Tips](https://github.com/breky/notes/tree/master/Tips/Tips.md)
+- [Tips](https://github.com/breky/notes/tree/master/Tips/Tips.md)：操作记录
+  
   - Markdown 目录
-- [github](https://github.com/breky/notes/tree/master/Tips/github.md)
-  - Git 错误
-- [JetBrains](https://github.com/breky/notes/tree/master/Tips/JetBrains.md)
-  - JetBrains 全系列破解方法
+  
+- [github](https://github.com/breky/notes/tree/master/Tips/github.md)：Git 常见错误
+  
+  - git@github.com: Permission denied (publickey)
+
+- [JetBrains](https://github.com/breky/notes/tree/master/Tips/JetBrains.md)：JetBrains 全系列破解方法
 
 
 
