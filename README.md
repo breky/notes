@@ -2,9 +2,7 @@
 
 ### Record commands of Linux
 
-- [Commands of Linux](https://github.com/breky/notes/blob/master/Linux/common.md)
-
-  Linux 常用命令
+- [Commands of Linux](https://github.com/breky/notes/blob/master/Linux/common.md)：Linux 常用命令
 
   - 添加环境变量
   - 解包
