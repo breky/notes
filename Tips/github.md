@@ -3,7 +3,7 @@
 Table of Content
 
 
-- [ Permission denied](#Permission Denied )
+- [Permission denied](#Permission Denied)
 
 ### Permission Denied 
 
