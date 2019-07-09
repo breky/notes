@@ -21,6 +21,7 @@
 - [JetBrains](https://github.com/breky/notes/tree/master/Tips/JetBrains.md)：JetBrains 全系列破解方法
 
 
-
-
+$$
+y = \sum_{i=1}^10 x_i
+$$
 
