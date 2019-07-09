@@ -1,8 +1,9 @@
-# Nothing to write
+# Operational Records
 
-$y_i = \sum_{i=1}^N x_i$
-$$
-y_i = \sum_{i=1}^n x_i
-$$
+### Record commands of Linux
+
+### Record Tips
+
+
 
 
