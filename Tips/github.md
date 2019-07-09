@@ -3,13 +3,16 @@
 Table of Content
 
 
-- [git@github.com: Permission denied (publickey)](#git@github.com: Permission denied (publickey))
+- [ Permission denied](#Permission Denied )
+
+### Permission Denied 
+
+```shell
+git@github.com: Permission denied (publickey)
+```
 
 
-
-### git@github.com: Permission denied (publickey)
-
-1. 创建 ssh-key 
+1.  ssh-key 
 
     ssh-keygen -t rsa -b 4096 -C "email@xxx"
 
