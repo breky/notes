@@ -1,12 +1,16 @@
 ## Record Git Error
 
-@[TOC]
+Table of Content
+
+
+-[git@github.com: Permission denied (publickey)](#git@github.com: Permission denied (publickey)]
+
 
 ### git@github.com: Permission denied (publickey)
 
 1. 创建 ssh-key 
 
-ssh-keygen -t rsa -b 4096 -C "email@xxx"
+    ssh-keygen -t rsa -b 4096 -C "email@xxx"
 
 2. ssh -v git@github.com
 
