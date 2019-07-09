@@ -1,6 +1,6 @@
 ## Linux 常用命令
 
-Table of Content
+**Table of Content**
 
 - [添加环境变量](#添加环境变量)
 

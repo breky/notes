@@ -1,6 +1,6 @@
 ## Record Git Error
 
-Table of Content
+**Table of Content**
 
 - [Permission denied](#permission-Denied)
 

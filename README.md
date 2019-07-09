@@ -13,9 +13,9 @@
 ### Record Tips
 
 - [Tips](https://github.com/breky/notes/tree/master/Tips/Tips.md)
-- Markdown 目录
+  - Markdown 目录
 - [github](https://github.com/breky/notes/tree/master/Tips/github.md)
-- Git 错误
+  - Git 错误
 - [JetBrains](https://github.com/breky/notes/tree/master/Tips/JetBrains.md)
   - JetBrains 全系列破解方法
 

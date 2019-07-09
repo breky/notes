@@ -1,6 +1,6 @@
 ## Tips
 
-Table of Content
+**Table of Content**
 
 - [Markdown 目录](#markdown-目录)
 
