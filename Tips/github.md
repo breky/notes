@@ -3,7 +3,8 @@
 Table of Content
 
 
--[git@github.com: Permission denied (publickey)](#git@github.com: Permission denied (publickey))
+- [git@github.com: Permission denied (publickey)](#git@github.com: Permission denied (publickey))
+
 
 
 ### git@github.com: Permission denied (publickey)
@@ -45,7 +46,7 @@ Table of Content
 　　请执行命令：
 
     eval `ssh-agent -s`
-
+    
     后继续执行命令 ssh-add ~/.ssh/id_rsa
 
 5. 将 id_rsa.pub 的内容添加到 Deploy key 中
