@@ -2,8 +2,7 @@
 
 Table of Content
 
-
-- [Permission denied](#Permission Denied)
+ [Permission denied](#permission Denied)
 
 ### Permission Denied 
 
@@ -39,7 +38,7 @@ git@github.com: Permission denied (publickey)
     这时候应该会提示：
 
     Identity added: ...（这里是一些ssh key文件路径的信息）
-    
+    (
     **注意:**
 
     如果出现错误提示：
@@ -47,9 +46,9 @@ git@github.com: Permission denied (publickey)
 　　Could not open a connection to your authentication agent.
 
 　　请执行命令：
-
-    eval `ssh-agent -s`
-    
-    后继续执行命令 ssh-add ~/.ssh/id_rsa
+　　
+　　eval `ssh-agent -s`
+　　
+　　后继续执行命令 ssh-add ~/.ssh/id_rsa
 
 5. 将 id_rsa.pub 的内容添加到 Deploy key 中
