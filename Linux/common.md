@@ -1,5 +1,13 @@
 ## Linux 常用命令
 
+Table of Content
+
+- [添加环境变量](#添加环境变量)
+
+- [解压 tar 包](#解压-tar-包)
+
+- [打包 tar 包](#打包-tar-包)
+
 ### 添加环境变量
 
 XXX_HOME=xxx_path
@@ -19,7 +27,7 @@ tar -zxvf xxx.tar -C path
 
 ### 打包 tar 包
 
-tar -cf xxx.tar
+tar -cf xxx.tar 要打包文件夹
 
 -c: create, 创建一个新的 tar 包
 

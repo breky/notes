@@ -4,13 +4,20 @@
 
 - [Commands of Linux](https://github.com/breky/notes/blob/master/Linux/common.md)
 
+  Linux 常用命令
+
+  - 添加环境变量
+  - 解包
+  - 打包
+
 ### Record Tips
 
 - [Tips](https://github.com/breky/notes/tree/master/Tips/Tips.md)
-
+- Markdown 目录
 - [github](https://github.com/breky/notes/tree/master/Tips/github.md)
-
+- Git 错误
 - [JetBrains](https://github.com/breky/notes/tree/master/Tips/JetBrains.md)
+  - JetBrains 全系列破解方法
 
 
 
