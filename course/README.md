@@ -272,7 +272,7 @@ $$
 引入一个约束条件 $tr(W^TS_wW) = c$ , 设 $c=1$ 。则优化问题变为：
 $$
 \begin{align*}
-&\max J_1(W) 
+&\max J_1(W)  \\
 &s.t.\quad tr(W^TS_wW) =1
 \end{align*}
 $$
