@@ -285,8 +285,8 @@ $$
 在拉格朗日函数的极值点上，应该满足$ \frac{\partial}{\partial W}g(W) = 0$ , 
 $$
 \begin{align*}
-\therefore& \quad S_w^{-1}(S_w + S_b)W = W \Lambda \\[1.5em]
-\therefore& \quad S_w^{-1}S_bW = W(\Lambda - I)    \\[1.5em]
+\therefore & \quad S_w^{-1}(S_w + S_b)W = W \Lambda \\[1.5em]
+\therefore & \quad S_w^{-1}S_bW = W(\Lambda - I)    \\[1.5em]
 & \quad \Lambda = ?
 \end{align*}
 $$
