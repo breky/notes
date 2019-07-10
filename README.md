@@ -23,8 +23,3 @@
 - [GoldenDict](https://github.com/breky/notes/releases): GoldenDict 词典及语法规则
 
 
-$$
-\therefore
-$$
-
-$\therefore$
