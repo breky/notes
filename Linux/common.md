@@ -11,6 +11,7 @@
 ### 添加环境变量
 
 XXX_HOME=xxx_path
+
 export PATH=$XXX_HOME:$PATH
 
 ### 解压 tar 包
