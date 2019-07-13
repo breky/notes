@@ -6,13 +6,13 @@
 
 ### Record Tips
 
-- [Tips](https://github.com/breky/notes/tree/master/Tips/Tips.md)：操作记录
+- Tips/[Tips](https://github.com/breky/notes/tree/master/Tips/Tips.md)：操作记录
   
   
-- [github](https://github.com/breky/notes/tree/master/Tips/github.md)：Git 常见错误
+- Tips/[github](https://github.com/breky/notes/tree/master/Tips/github.md)：Git 常见错误
   
 
-- [JetBrains](https://github.com/breky/notes/tree/master/Tips/JetBrains.md)：JetBrains 全系列破解方法
+- Tips/[JetBrains](https://github.com/breky/notes/tree/master/Tips/JetBrains.md)：JetBrains 全系列破解方法
 
 - [GoldenDict](https://github.com/breky/notes/releases): GoldenDict 词典及语法规则
 
