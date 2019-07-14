@@ -10,6 +10,10 @@ WPS 版本：WPS Office 2019
 
 链接: https://pan.baidu.com/s/1yFg7nRafcdPYtnHJk38r1g 密码: 3xqf
 
+或
+
+进入 https://github.com/breky/notes/releases 页面，下载 wps-symbol-fonts.zip 文件
+
 ### 安装字体
 
 首先，将字体复制到 /usr/share/fonts 文件夹；
