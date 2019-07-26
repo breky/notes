@@ -2,7 +2,41 @@
 
 **Table of Content**
 
+- [常用命令](#commands)
+
 - [Permission denied](#permission-Denied)
+
+### Commands
+
+1. 全局命令
+
+   1.1 git --global user.name "user name"
+
+   1.2 git --global user.email "user email"
+
+2. ssh
+
+    2.1 ssh-keygen -t rsa -b 4096 -C "user email"
+
+    2.2 ssh-add ~/.ssh/id_rsa
+
+
+3. 添加远程仓库
+
+    3.1 git remote add notes address of remote repository
+
+4. pull
+
+    4.1 git pull notes master
+
+5. push
+
+    5.1 git add . and git status
+ 
+    5.2 git commit -m "message"
+
+    5.3 git push notes maser
+ 
 
 ### Permission Denied 
 
