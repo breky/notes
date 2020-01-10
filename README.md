@@ -12,6 +12,7 @@
 - Tips/[JetBrains](https://github.com/breky/notes/tree/master/Tips/JetBrains.md)：JetBrains 全系列破解方法
 - Tips/[Wps](https://github.com/breky/notes/tree/master/Tips/Wps.md): WPS 提示字体缺失的处理方法
 - [GoldenDict](https://github.com/breky/notes/releases): GoldenDict 词典及语法规则
+
 -Tips/[ubuntu 18.04 LTS](https://github.com/breky/notes/blob/master/Linux/ubuntu.md): Ubuntu 18.04 LTS 常用设置
 
 
